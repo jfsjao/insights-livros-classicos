@@ -1,4 +1,3 @@
-
 # 🧠 Análise de Sentimentos em Autores Clássicos
 
 ![Nuvem de Palavras Geral](nuvens/nuvem_geral.png)
@@ -151,8 +150,8 @@ insights-livros-classicos/
 Contribuições são bem-vindas!  
 Abra uma *issue* ou envie um *pull request* com melhorias e sugestões.
 
----
+## Autores
 
-## 📄 Licença
+João Felipe S. | [GitHub](https://github.com/jfsjao)
 
-Distribuído sob a licença MIT. Consulte `LICENSE` para mais detalhes.
+Ian Seki | [GitHub](https://github.com/ibSeki)
