@@ -1,0 +1,12 @@
+# Arquivos do ambiente virtual Python
+venv/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Arquivos de cache Python
+__pycache__/
+*.py[cod]
+*$py.class

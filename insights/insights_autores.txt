@@ -1,0 +1,54 @@
+
+        AUTOR: AGATHA CHRISTIE
+        Obras analisadas: 1) O Assassinato de Roger Ackroyd, 2) O Misterioso Caso de Styles, 3) Poirot Investiga
+        Top 3 sentimentos:
+        1. Suspense (2 ocorrências)
+        2. Intriga (2 ocorrências)
+        3. Surpresa (1 ocorrências)
+        
+
+
+        AUTOR: EDGAR ALLAN POE
+        Obras analisadas: 1) O Corvo, 2) A Queda da Casa de Usher, 3) O Coração Delator
+        Top 3 sentimentos:
+        1. angústia (3 ocorrências)
+        2. melancolia (1 ocorrências)
+        3. terror (1 ocorrências)
+        
+
+
+        AUTOR: H.P. LOVECRAFT
+        Obras analisadas: 1) A música de Erich Zann, 2) Os Gatos de Ulthar, 3) Dagon
+        Top 3 sentimentos:
+        1. Terror (1 ocorrências)
+        2. Mistério (1 ocorrências)
+        3. Fascinação (1 ocorrências)
+        
+
+
+        AUTOR: IRMÃOS GRIMM
+        Obras analisadas: 1) Branca de Neve, 2) O Príncipe-Rã ou Henrique de Ferro, 3) João e Maria
+        Top 3 sentimentos:
+        1. medo (2 ocorrências)
+        2. perigo (1 ocorrências)
+        3. esperança (1 ocorrências)
+        
+
+
+        AUTOR: WILLIAM SHAKESPEARE
+        Obras analisadas: 1) Hamlet, 2) Romeo Y Julieta, 3) Macbeth
+        Top 3 sentimentos:
+        1. vingança (1 ocorrências)
+        2. tristeza (1 ocorrências)
+        3. dúvida (1 ocorrências)
+        
+
+
+    VISÃO GERAL:
+    Sentimentos mais frequentes em todas as obras:
+    1. angústia (3 ocorrências)
+    2. culpa (2 ocorrências)
+    3. medo (2 ocorrências)
+    4. Suspense (2 ocorrências)
+    5. Intriga (2 ocorrências)
+    
